@@ -1,0 +1,12 @@
+# This allows you to redirect your entire website to any other domain
+#Redirect 301 /panel.php https://nerol.ddns.net/index.php
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+RewriteRule	^editUser	login/edit.php    [NC]
+RewriteRule	^logIn		login/index.php
+RewriteRule	^registro	login/register.php
+RewriteRule	^olvido		login/password_reset.php

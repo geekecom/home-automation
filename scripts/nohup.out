@@ -1,0 +1,228 @@
+Debe de indicar el id de la zona de ventilación que desea activar. 
+/home/pi/domotica/scripts/ring.py:11: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(16, GPIO.OUT)
+idFan = fan0 
+fanPin = 13 
+fanStateDB = 1 
+Estado alarma: 0
+Estado presencia: 0
+/home/pi/domotica/scripts/pinOn.py:9: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(pin, GPIO.OUT)
+Temperatura actual: 26.55
+Temperature deseada: 32
+
+
+Estado alarma: 0
+Estado presencia: 0
+/home/pi/domotica/scripts/pinOn.py:9: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(pin, GPIO.OUT)
+Estado alarma: 0
+Estado presencia: 0
+2
+light0
+1
+11
+light1
+1
+12
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Temperatura actual: 26.57
+Temperature deseada: 32
+ApagadoEstado alarma: 0
+Estado presencia: 0
+
+
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Temperatura actual: 26.58
+Temperature deseada: 24
+EncendidoEstado alarma: 0
+Estado presencia: 0
+
+
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Temperatura actual: 26.53
+Temperature deseada: 24
+
+
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Temperatura actual: 26.5
+Temperature deseada: 24
+
+
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Temperatura actual: 26.51
+Temperature deseada: 24
+
+
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Temperatura actual: 26.51
+Temperature deseada: 24
+
+
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Temperatura actual: 26.52
+Temperature deseada: 24
+
+
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Temperatura actual: 26.54
+Temperature deseada: 24
+
+
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Temperatura actual: 26.55
+Temperature deseada: 24
+
+
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Temperatura actual: 26.56
+Temperature deseada: 24
+
+
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Temperatura actual: 26.57
+Temperature deseada: 24
+
+
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Temperatura actual: 26.6
+Temperature deseada: 24
+
+
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Estado alarma: 0
+Estado presencia: 0
+Temperatura actual: 26.57
+Temperature deseada: 24
+
+
+Estado alarma: 0
+Estado presencia: 0
+PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /home/pi/domotica/web/db-query.php on line 9
+PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/pi/domotica/web/db-query.php on line 10
+Connection failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /home/pi/domotica/web/db-query.php on line 9
+PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/pi/domotica/web/db-query.php on line 10
+Connection failed: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
